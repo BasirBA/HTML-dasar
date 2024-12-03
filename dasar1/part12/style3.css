@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+
+.flex-container > div {
+    background-color: gray;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
